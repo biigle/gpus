@@ -10,3 +10,4 @@ keras==2.1.*
 opencv-python-headless>=3.4.5,<4.0
 h5py==2.10.*
 imgaug==0.3.*
+pyvips

@@ -46,6 +46,7 @@ RUN apt-get update \
         libpng-dev \
         zlib1g-dev \
         libhdf5-dev \
+        libvips \
     && pip3 install --no-cache-dir -r /tmp/requirements.txt \
     && apt-get purge -y \
         build-essential \
