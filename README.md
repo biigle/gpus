@@ -1,5 +1,7 @@
 # BIIGLE GPU Server
 
+**:warning: The GPU server was abandoned in favor of a [simpler setup involving GPU workers and a central Redis cache](https://biigle-admin-documentation.readthedocs.io/gpu/#remote-host-gpu).**
+
 Application to process jobs submitted from BIIGLE on a GPU.
 
 ## Requirements
